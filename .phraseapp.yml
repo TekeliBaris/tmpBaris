@@ -1,0 +1,13 @@
+phraseapp:
+  project_id: eea98b1392b23a5f2ef86890a9f054ea
+  file_format: yml
+  push:
+    sources:
+    - file: en.json
+      params:
+        file_format: json
+  pull:
+    targets:
+    - file: en.json
+      params:
+        file_format: json
