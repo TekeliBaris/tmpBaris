@@ -1,0 +1,12 @@
+{
+  "lysModule.card.action.add": "Add",
+  "lysModule.card.action.changeSupport": "Change Support",
+  "lysModule.card.action.delete": "Delete",
+  "lysModule.card.action.history": "History",
+  "lysModule.card.action.loadInProgress": "Data loading is in progress",
+  "lysModule.card.action.renewal": "Renewal",
+  "lysModule.card.number": "Card Number",
+  "lysModule.card.status": "Card Status",
+  "lysModule.card.title": "Cards",
+  "lysModule.card.type": "Card Type"
+}

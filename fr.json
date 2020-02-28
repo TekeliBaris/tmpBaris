@@ -1,0 +1,12 @@
+{
+  "lysModule.card.action.add": "Ajouter",
+  "lysModule.card.action.changeSupport": "Changer de support",
+  "lysModule.card.action.delete": "Supprimer",
+  "lysModule.card.action.history": "Historique",
+  "lysModule.card.action.loadInProgress": "Chargement des données en cours",
+  "lysModule.card.action.renewal": "Renouveler",
+  "lysModule.card.number": "Numéro de la carte",
+  "lysModule.card.status": "Status de la carte",
+  "lysModule.card.title": "Cartes",
+  "lysModule.card.type": "Type de carte"
+}
